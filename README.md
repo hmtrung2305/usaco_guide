@@ -1,1 +1,1 @@
-**This is all code in USACO**
+**This is all code in USACO Guide**
