@@ -1,4 +1,4 @@
-# This is all code in USACO Guide
+# USACO Guide
 
 ## Silver
 ### Prefix Sums
@@ -16,6 +16,17 @@
 - Running Miles - Normal - [Problem](https://codeforces.com/contest/1826/problem/D) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/prefixsum/1826d.cpp)
 - Irreducible Anagrams - Normal - [Problem](https://codeforces.com/contest/1291/problem/D) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/prefixsum/1291d.cpp)
 - Multiple of 2019 - Hard - [Problem](https://atcoder.jp/contests/abc164/tasks/abc164_d) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/prefixsum/abc164_d.cpp)
-## Gold
+### Sorting & Searching
+### Graphs
+### Additional Topics
+### Conclusion
 
+## Gold
+### Math
+### Dynamic Programming
+### Graphs
+### Data Structures
+### Trees
+### Additional Topics
+### Conclusion
 ## Platinum
