@@ -36,6 +36,17 @@
 - Out Of Sorts - Hard - [Problem](https://usaco.org/index.php?page=viewproblem2&cpid=834) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/sortingsandsearching/custom_comparators_and_coordinate_compression/sort.cpp)
 - Meetings - Very Hard - [Problem](https://usaco.org/index.php?page=viewproblem2&cpid=967) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/sortingsandsearching/custom_comparators_and_coordinate_compression/meetings.cpp)
 #### Two Pointers
+- Books - Easy - [Problem](https://codeforces.com/contest/279/problem/B) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/sortingsandsearching/two_pointers/279b.cpp)
+- Sum of Two Values - Easy - [Problem](https://cses.fi/problemset/task/1640) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/sortingsandsearching/two_pointers/1640.cpp)
+- Subarray Sums I - Easy - [Problem](https://cses.fi/problemset/task/1660) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/sortingsandsearching/two_pointers/1660.cpp)
+- Sum of Three Values - Easy - [Problem](https://cses.fi/problemset/task/1641) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/sortingsandsearching/two_pointers/1641.cpp)
+- Paired Up - Easy - [Problem](https://usaco.org/index.php?page=viewproblem2&cpid=738) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/sortingsandsearching/two_pointers/pairup.cpp)
+- Cellular Network - Easy - [Problem](https://codeforces.com/contest/702/problem/C) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/sortingsandsearching/two_pointers/702c.cpp)
+- They Are Everywhere - Easy - [Problem](https://codeforces.com/problemset/problem/701/C) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/sortingsandsearching/two_pointers/701c.cpp)
+- Quiz Master - Normal - [Problem](https://codeforces.com/contest/1777/problem/C) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/sortingsandsearching/two_pointers/1777c.cpp)
+- Diamond Collector - Normal - [Problem](https://usaco.org/index.php?page=viewproblem2&cpid=643) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/sortingsandsearching/two_pointers/diamond.cpp)
+- Sleepy Cow Herding - Normal - [Problem](https://usaco.org/index.php?page=viewproblem2&cpid=918) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/sortingsandsearching/two_pointers/herding.cpp)
+- Garland - Normal - [Problem](https://codeforces.com/problemset/problem/814/C) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/sortingsandsearching/two_pointers/814c.cpp)
 #### More Operations on Sorted Sets
 #### Greedy Algorithms with Sorting
 #### Binary Search
