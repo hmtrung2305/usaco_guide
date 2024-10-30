@@ -17,7 +17,18 @@
 - Irreducible Anagrams - Normal - [Problem](https://codeforces.com/contest/1291/problem/D) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/prefixsum/introduction_to_prefix_sums/1291d.cpp)
 - Multiple of 2019 - Hard - [Problem](https://atcoder.jp/contests/abc164/tasks/abc164_d) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/prefixsum/introduction_to_prefix_sums/abc164_d.cpp)
 #### More on Prefix Sums
- 
+- Max Subarray Sum - Easy - [Problem](https://cses.fi/problemset/task/1643) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/prefixsum/more_on_prefix_sums/1643.cpp)
+- 2D Prefix Sums - Easy - [Problem](https://cses.fi/problemset/task/1652) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/prefixsum/more_on_prefix_sums/1652.cpp)
+- Painting the Barn - Easy - [Problem](https://usaco.org/index.php?page=viewproblem2&cpid=919) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/prefixsum/more_on_prefix_sums/paintbarn_silver.cpp)
+- The Lazy Cow - Easy - [Problem](https://usaco.org/index.php?page=viewproblem2&cpid=416) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/prefixsum/more_on_prefix_sums/lazy.cpp)
+- Nusret Gokce - Normal - [Problem](https://codeforces.com/gym/104114/problem/N) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/prefixsum/more_on_prefix_sums/gym104114n.cpp)
+- Rectangular Pasture - Hard - [Problem](https://usaco.org/index.php?page=viewproblem2&cpid=1063) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/prefixsum/more_on_prefix_sums/rectangular_pasture.cpp)
+- Painting the Barn - Hard - [Problem](https://usaco.org/index.php?page=viewproblem2&cpid=923) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/prefixsum/more_on_prefix_sums/paintbarn_gold.cpp)
+- Nuske vs Phantom Thnook - Hard - [Problem](https://atcoder.jp/contests/agc015/tasks/agc015_c) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/prefixsum/more_on_prefix_sums/agc015_c.cpp)
+- Modern Art - Very Hard - [Problem](https://usaco.org/index.php?page=viewproblem2&cpid=744) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/prefixsum/more_on_prefix_sums/art.cpp)
+- Greg and Array - Normal - [Problem](https://codeforces.com/contest/295/problem/A) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/prefixsum/more_on_prefix_sums/295a.cpp)
+- Leaping Tak - Normal - [Problem](https://atcoder.jp/contests/abc179/tasks/abc179_d) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/prefixsum/more_on_prefix_sums/abc179_d.cpp)
+- Little Girl and Maximum Sum - Normal - [Problem](https://codeforces.com/contest/276/problem/C) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/prefixsum/more_on_prefix_sums/276c.cpp)
 ### Sorting & Searching
 #### Custom Comparators and Coordinate Compression
 - Wormhole Sort - Insane - [Problem](https://usaco.org/index.php?page=viewproblem2&cpid=992) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/sortingsandsearching/custom_comparators_and_coordinate_compression/wormsort.cpp)
