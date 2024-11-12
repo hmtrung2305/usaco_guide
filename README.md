@@ -1,5 +1,20 @@
 # USACO Guide
 
+## Bronze
+### Getting Started
+### Complete Search
+### Sorting & Sets
+### Additional
+#### Introduction to Greedy Algorithms
+- Mad Scientist - Easy - [Problem](https://usaco.org/index.php?page=viewproblem2&cpid=1012) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/bronze/additional/introduction_to_greedy_algorithms/breedflip.cpp)
+- Watching Mooloo - Easy - [Problem](https://usaco.org/index.php?page=viewproblem2&cpid=1301) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/bronze/additional/introduction_to_greedy_algorithms/watching_mooloo.cpp)
+- Cow Tipping - Normal - [Problem](https://usaco.org/index.php?page=viewproblem2&cpid=689) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/bronze/additional/introduction_to_greedy_algorithms/cowtip.cpp)
+- Even More Odd Photos - Normal - [Problem](https://usaco.org/index.php?page=viewproblem2&cpid=1084) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/bronze/additional/introduction_to_greedy_algorithms/even_more_odd_photos.cpp)
+- Out of Place - Hard - [Problem](https://usaco.org/index.php?page=viewproblem2&cpid=785) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/bronze/additional/introduction_to_greedy_algorithms/outofplace.cpp)
+- Photoshoot - Hard - [Problem](https://usaco.org/index.php?page=viewproblem2&cpid=1227) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/bronze/additional/introduction_to_greedy_algorithms/photoshoot.cpp)
+- Race - Very Hard - [Problem](https://usaco.org/index.php?page=viewproblem2&cpid=989) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/bronze/additional/introduction_to_greedy_algorithms/race.cpp)
+### Conclusion
+
 ## Silver
 ### Prefix Sums
 #### Introduction to Prefix Sums
