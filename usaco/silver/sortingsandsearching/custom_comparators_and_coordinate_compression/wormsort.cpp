@@ -1,17 +1,17 @@
 #include <bits/stdc++.h>
 
 struct DisjointSetUnion {
-	std::vector<int> parrentNode;
+	std::vector<int> parentNode;
 	std::vector<int> sizeNode;
 
 	DisjointSetUnion(int numNode) {
-		parrentNode.resize(numNode);
-		iota(parrentNode.begin(), parrentNode.end(), 0);
+		parentNode.resize(numNode);
+		iota(parentNode.begin(), parentNode.end(), 0);
 		sizeNode.assign(numNode, 0);
 	}
 
 	int findNode(int node) {
-		return (node == parrentNode[node] ? node : parrentNode[node] = findNode(parrentNode[node]));
+		return (node == parentNode[node] ? node : parentNode[node] = findNode(parentNode[node]));
 	}
 
 	bool unionNode(int node1, int node2) {
@@ -23,7 +23,7 @@ struct DisjointSetUnion {
 		if (sizeNode[node1] > sizeNode[node2]) {
 			std::swap(node1, node2);
 		}
-		parrentNode[node1] = node2;
+		parentNode[node1] = node2;
 		sizeNode[node2] += sizeNode[node1];
 		return true;
 	}
