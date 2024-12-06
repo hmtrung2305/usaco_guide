@@ -74,6 +74,21 @@
 - Sleepy Cow Herding - Normal - [Problem](https://usaco.org/index.php?page=viewproblem2&cpid=918) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/sortingsandsearching/two_pointers/herding.cpp)
 - Garland - Normal - [Problem](https://codeforces.com/problemset/problem/814/C) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/sortingsandsearching/two_pointers/814c.cpp)
 #### More Operations on Sorted Sets
+- Concert Tickets - Easy - [Problem](https://cses.fi/problemset/task/1091) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/sortingsandsearching/more_operations_on_sorted_sets/1091.cpp)
+- Cellular Network - Easy - [Problem](https://codeforces.com/contest/702/problem/C) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/sortingsandsearching/two_pointers/702c.cpp)
+- Traffic Lights - Normal - [Problem](https://cses.fi/problemset/task/1163) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/sortingsandsearching/more_operations_on_sorted_sets/1163.cpp)
+- Room Allocation - Normal - [Problem](https://cses.fi/problemset/task/1164) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/sortingsandsearching/more_operations_on_sorted_sets/1164.cpp)
+- Bit Inversions - Hard - [Problem](https://cses.fi/problemset/task/1188) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/sortingsandsearching/more_operations_on_sorted_sets/1188.cpp)
+- Milk Measurement - Normal - [Problem](https://usaco.org/index.php?page=viewproblem2&cpid=763) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/sortingsandsearching/more_operations_on_sorted_sets/measurement.cpp)
+- Convention II - Normal - [Problem](https://usaco.org/index.php?page=viewproblem2&cpid=859) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/sortingsandsearching/more_operations_on_sorted_sets/convention2.cpp)
+- William and Robot - Normal - [Problem](https://codeforces.com/gym/104002/problem/E) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/sortingsandsearching/more_operations_on_sorted_sets/gym104002e.cpp)
+- Array Destruction - Normal - [Problem](https://codeforces.com/problemset/problem/1474/C) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/sortingsandsearching/more_operations_on_sorted_sets/1474c.cpp)
+- Covered Points Count - Normal - [Problem](https://codeforces.com/problemset/problem/1000/C) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/sortingsandsearching/more_operations_on_sorted_sets/1000c.cpp)
+- Snow Boots - Hard - [Problem](https://usaco.org/index.php?page=viewproblem2&cpid=813) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/sortingsandsearching/more_operations_on_sorted_sets/snowboots.cpp)
+- Packing Under Range Regulations - Hard - [Problem](https://atcoder.jp/contests/abc214/tasks/abc214_e) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/sortingsandsearching/more_operations_on_sorted_sets/abc214_e.cpp)
+- Survival of the Weakest (easy version) - Hard - [Problem](https://codeforces.com/problemset/problem/1805/F1) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/sortingsandsearching/more_operations_on_sorted_sets/1805f1.cpp)
+- Mahmoud & Ehab & Function - Very Hard - [Problem](https://codeforces.com/contest/862/problem/E) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/sortingsandsearching/more_operations_on_sorted_sets/862e.cpp)
+- Tournament - Insane - [Problem](https://codeforces.com/contest/878/problem/C) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/sortingsandsearching/more_operations_on_sorted_sets/878c.cpp)
 #### Greedy Algorithms with Sorting
 #### Binary Search
 
