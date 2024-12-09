@@ -131,6 +131,21 @@
 - Snow Boots - Hard - [Problem](https://usaco.org/index.php?page=viewproblem2&cpid=811) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/graphs/flood_fill/snowboots.cpp)
 - Maze Tac Toe - Hard - [Problem](https://usaco.org/index.php?page=viewproblem2&cpid=1134) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/graphs/flood_fill/maze_tac_toe.cpp)
 - Multiplayer Moo - Hard - [Problem](https://usaco.org/index.php?page=viewproblem2&cpid=836) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/graphs/flood_fill/multimoo.cpp)
+#### Introduction to Tree Algorithms
+- Subordinates - Easy - [Problem](https://cses.fi/problemset/task/1674) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/graphs/introduction_to_the_tree_algorithms/1674.cpp)
+- PolandBall & Forest - Easy - [Problem](https://codeforces.com/contest/755/problem/C) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/graphs/introduction_to_the_tree_algorithms/755c.cpp)
+- Mootube - Easy - [Problem](https://usaco.org/index.php?page=viewproblem2&cpid=788) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/graphs/introduction_to_the_tree_algorithms/mootube.cpp)
+- Journey - Easy - [Problem](https://codeforces.com/contest/839/problem/C) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/graphs/introduction_to_the_tree_algorithms/839c.cpp)
+- Milk Visits - Easy - [Problem](https://usaco.org/index.php?page=viewproblem2&cpid=968) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/graphs/introduction_to_the_tree_algorithms/milkvisits.cpp)
+- Cowntagion - Easy - [Problem](https://usaco.org/index.php?page=viewproblem2&cpid=1062) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/graphs/introduction_to_the_tree_algorithms/cowntagion.cpp)
+- Family Tree - Easy - [Problem](https://usaco.org/index.php?page=viewproblem2&cpid=833) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/graphs/introduction_to_the_tree_algorithms/family.cpp)
+- Tree Diameter - Normal - [Problem](https://cses.fi/problemset/task/1131) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/graphs/introduction_to_the_tree_algorithms/1131.cpp)
+- Minimize the Diameter - Normal - [Problem](https://codeforces.com/gym/104536/problem/F) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/graphs/introduction_to_the_tree_algorithms/gym104536f.cpp)
+- Tree Distances I - Normal - [Problem](https://cses.fi/problemset/task/1132) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/graphs/introduction_to_the_tree_algorithms/1132.cpp)
+- Tree Distances II - Normal - [Problem](https://cses.fi/problemset/task/1133) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/graphs/introduction_to_the_tree_algorithms/1133.cpp)
+- Clock Tree - Normal - [Problem](https://usaco.org/index.php?page=viewproblem2&cpid=1016) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/graphs/introduction_to_the_tree_algorithms/clocktree.cpp)
+- Even Outdegree Edges - Hard - [Problem](https://cses.fi/problemset/task/2179) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/graphs/introduction_to_the_tree_algorithms/2179.cpp)
+- Wizard's Tour - Hard - [Problem](https://codeforces.com/contest/860/problem/D) - [Code](https://github.com/hmtrung2305/usaco_guide/blob/main/usaco/silver/graphs/introduction_to_the_tree_algorithms/860d.cpp)
 ### Additional Topics
 ### Conclusion
 
